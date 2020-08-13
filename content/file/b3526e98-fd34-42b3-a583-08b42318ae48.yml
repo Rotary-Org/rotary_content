@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b3526e98-fd34-42b3-a583-08b42318ae48
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Cornhole-Tournament-logo-for-eventbrite.jpg
+  uri:
+    -
+      value: 'private://inline-images/Cornhole-Tournament-logo-for-eventbrite.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 114986
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597257063

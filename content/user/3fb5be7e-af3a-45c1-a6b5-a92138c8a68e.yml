@@ -1,0 +1,54 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 3fb5be7e-af3a-45c1-a6b5-a92138c8a68e
+  default_langcode: en
+  depends:
+    423f94be-ec7d-4b80-9558-cb02e8cee43a: profile
+default:
+  preferred_langcode:
+    -
+      value: en
+  preferred_admin_langcode:
+    -
+      value: en
+  name:
+    -
+      value: Jimmy
+  pass:
+    -
+      value: $S$E6mudSQ/.t4O.h2wE4w0e9uNpxkJ3IZXUTsIPZ.Zv1N2xUO0FvOW
+      existing: ''
+      pre_hashed: false
+  mail:
+    -
+      value: jjflynn22+1@gmail.com
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597265679
+  access:
+    -
+      value: 1597268066
+  login:
+    -
+      value: 1597265709
+  init:
+    -
+      value: jjflynn22+1@gmail.com
+  profile_profiles:
+    -
+      entity: 423f94be-ec7d-4b80-9558-cb02e8cee43a
+  role_change:
+    -
+      target_id: __role_delegation_empty_field_value__
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0

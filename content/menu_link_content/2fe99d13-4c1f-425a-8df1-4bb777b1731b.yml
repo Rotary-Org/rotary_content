@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 2fe99d13-4c1f-425a-8df1-4bb777b1731b
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    34925c03-0b50-45ec-a245-7f8cb1b25aaa: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Donate
+  description:
+    -
+      value: 'Monetary or new raffle items donations are greatly appreciated.'
+  menu_name:
+    -
+      value: main-navigation-anonymous
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 3
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:34925c03-0b50-45ec-a245-7f8cb1b25aaa'
+  revision_translation_affected:
+    -
+      value: true

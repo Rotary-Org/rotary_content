@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: fe735b44-2ec6-418d-b52f-70e80c1d8359
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    ab8b0eec-86e0-4d7f-a2c9-d6e32ba12349: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Our causes'
+  description:
+    -
+      value: 'Our local, national and international causes'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 2
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:ab8b0eec-86e0-4d7f-a2c9-d6e32ba12349'
+  revision_translation_affected:
+    -
+      value: true

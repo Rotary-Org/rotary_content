@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 305928c5-acc7-4c06-948b-225828bca186
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    d0eff569-c7b7-47d6-91bd-959707eeea9d: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Rotary overview'
+  description:
+    -
+      value: 'Our Mission Statement'
+  menu_name:
+    -
+      value: main-navigation-anonymous
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 1
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:d0eff569-c7b7-47d6-91bd-959707eeea9d'
+  revision_translation_affected:
+    -
+      value: true

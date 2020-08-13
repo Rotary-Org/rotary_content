@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: dd7ed18e-800b-4acc-bfff-3998c9a26070
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 'new gen hero 2800x1800.jpg'
+  uri:
+    -
+      value: 'private://inline-images/new gen hero 2800x1800.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 633493
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597261805

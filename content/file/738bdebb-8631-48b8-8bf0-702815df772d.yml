@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 738bdebb-8631-48b8-8bf0-702815df772d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 20150427_MX_030.gif
+  uri:
+    -
+      value: 'private://2020-08/20150427_MX_030.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 1051346
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597251140

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5da6c613-4391-44bb-a665-7cde712a4faf
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Wheel.png
+  uri:
+    -
+      value: 'temporary://Wheel.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 74911
+  status:
+    -
+      value: false
+  created:
+    -
+      value: 1597250440

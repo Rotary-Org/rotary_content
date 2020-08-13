@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: c71fe8be-b119-429a-9ed8-b441df8484ce
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 684-536x354.jpg
+  uri:
+    -
+      value: 'private://inline-images/684-536x354.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 37776
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597243768

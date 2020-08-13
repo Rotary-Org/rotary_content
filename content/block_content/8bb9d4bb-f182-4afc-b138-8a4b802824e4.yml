@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 8bb9d4bb-f182-4afc-b138-8a4b802824e4
+  bundle: hero_call_to_action_block
+  default_langcode: en
+  depends:
+    738bdebb-8631-48b8-8bf0-702815df772d: file
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'AN homepage hero block'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_call_to_action_link:
+    -
+      uri: 'internal:/user/register'
+      title: 'Sign up'
+      options: {  }
+    -
+      uri: 'internal:/user/login'
+      title: Login
+      options: {  }
+  field_hero_image:
+    -
+      entity: 738bdebb-8631-48b8-8bf0-702815df772d
+      alt: ''
+      title: ''
+      width: 1620
+      height: 1080
+  field_text_block:
+    -
+      value: "<h3>Become a member or log in to join our Rotary Community</h3>\r\n"
+      format: full_html

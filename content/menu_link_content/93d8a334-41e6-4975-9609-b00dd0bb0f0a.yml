@@ -1,0 +1,39 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 93d8a334-41e6-4975-9609-b00dd0bb0f0a
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'News & Updates'
+  description:
+    -
+      value: 'News about our local, national and international organizations'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 4
+  expanded:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true

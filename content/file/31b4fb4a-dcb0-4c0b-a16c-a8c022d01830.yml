@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 31b4fb4a-dcb0-4c0b-a16c-a8c022d01830
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 20150415_MX_154.gif
+  uri:
+    -
+      value: 'private://2020-08/20150415_MX_154.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 1980433
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597261698

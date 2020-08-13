@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: aa68f0ed-8679-44e5-836e-e54a2f3dea09
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: cornhole-game-rentals-houston.jpg
+  uri:
+    -
+      value: 'private://2020-08/cornhole-game-rentals-houston.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 277880
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597256979

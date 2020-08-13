@@ -1,0 +1,52 @@
+_meta:
+  version: '1.0'
+  entity_type: profile
+  uuid: 423f94be-ec7d-4b80-9558-cb02e8cee43a
+  bundle: profile
+  depends:
+    3fb5be7e-af3a-45c1-a6b5-a92138c8a68e: user
+    3bfdada4-0c54-4b29-9320-aa2da8c92a49: file
+    5236c3e3-ab5f-4d02-82a1-5a2fb280d393: taxonomy_term
+    e825fed4-3db8-4729-8574-843679a1419b: file
+default:
+  revision_user:
+    -
+      entity: 3fb5be7e-af3a-45c1-a6b5-a92138c8a68e
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: 3fb5be7e-af3a-45c1-a6b5-a92138c8a68e
+  is_default:
+    -
+      value: true
+  created:
+    -
+      value: 1597265679
+  field_profile_banner_image:
+    -
+      entity: 3bfdada4-0c54-4b29-9320-aa2da8c92a49
+      alt: ''
+      title: ''
+      width: 1618
+      height: 456
+  field_profile_expertise:
+    -
+      entity: 5236c3e3-ab5f-4d02-82a1-5a2fb280d393
+  field_profile_first_name:
+    -
+      value: Jimmy
+  field_profile_image:
+    -
+      entity: e825fed4-3db8-4729-8574-843679a1419b
+      alt: ''
+      title: ''
+      width: 1400
+      height: 641
+  field_profile_last_name:
+    -
+      value: Beam
+  field_profile_show_email:
+    -
+      value: false

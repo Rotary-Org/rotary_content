@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 54f57a98-3544-4564-ac81-cc27de6c1425
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: IMG_3751.JPG
+  uri:
+    -
+      value: 'private://post/IMG_3751.JPG'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 317844
+  status:
+    -
+      value: false
+  created:
+    -
+      value: 1597269484

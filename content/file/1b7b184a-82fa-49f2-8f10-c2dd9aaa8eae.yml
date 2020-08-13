@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1b7b184a-82fa-49f2-8f10-c2dd9aaa8eae
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: dollar-signs.jpg
+  uri:
+    -
+      value: 'private://2020-08/dollar-signs.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 61452
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597262535

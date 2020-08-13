@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: c292b8ca-5693-485f-b7c1-dcbc335cf22d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Logo_ClubName_White_cropped.png
+  uri:
+    -
+      value: 'temporary://Logo_ClubName_White_cropped.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 42268
+  status:
+    -
+      value: false
+  created:
+    -
+      value: 1597250440

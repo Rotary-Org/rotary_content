@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: b19593ac-5206-4530-a2ef-421dfe601179
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    93d8a334-41e6-4975-9609-b00dd0bb0f0a: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Club news'
+  description:
+    -
+      value: 'News about our local Rotary Club'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/news'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 1
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:93d8a334-41e6-4975-9609-b00dd0bb0f0a'
+  revision_translation_affected:
+    -
+      value: true

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1410422a-13f9-4a63-bee4-fe9e42198d84
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: homepage-block.jpg
+  uri:
+    -
+      value: 'public://homepage-block.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 209359
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597242676

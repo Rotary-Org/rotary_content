@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d97f03ad-7e72-424f-86e4-f2be9f98c4e5
+  bundle: topic
+  default_langcode: en
+  depends:
+    05426d8a-8a64-4110-b82c-966ffde77a94: file
+    a2cd0afa-01e9-4c87-adf4-adc166f6020f: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'U.S. Representative Brian Fitzpatrick visits the Warrington Rotary'
+  created:
+    -
+      value: 1597261800
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p>On September 20th, Congressman Brian Fitzpatrick&nbsp;gave an update on several&nbsp;issues currently under consideration in the House and Senate.&nbsp;</p>\r\n<img alt=\"fits\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"1768e5d7-ed3a-4158-b42a-ea5e22cf919d\" src=\"/system/files/inline-images/Fitz.JPG\" />\r\n<p>He highlighted the&nbsp;work of the Problem Solving Caucus in the House of Representatives of which he is a member.&nbsp; The Caucus is a bi-partisan group in Congress that includes approximately 40 members– equally divided between Democrats and Republicans – who are committed to forging bi-partisan cooperation on key issues, namely health care, tax reform, infrastructure investment&nbsp;and&nbsp;other important issues.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_content_visibility:
+    -
+      value: public
+  field_topic_comments:
+    -
+      status: 2
+      cid: 0
+      last_comment_timestamp: 1597261965
+      last_comment_name: ''
+      last_comment_uid: 1
+      comment_count: 0
+  field_topic_image:
+    -
+      entity: 05426d8a-8a64-4110-b82c-966ffde77a94
+      alt: ''
+      title: ''
+      width: 1948
+      height: 1980
+  field_topic_type:
+    -
+      entity: a2cd0afa-01e9-4c87-adf4-adc166f6020f

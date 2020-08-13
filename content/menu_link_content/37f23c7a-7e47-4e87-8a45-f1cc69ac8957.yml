@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 37f23c7a-7e47-4e87-8a45-f1cc69ac8957
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    134ba435-edb8-4936-ac5a-4c69722f597f: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Become a member'
+  description:
+    -
+      value: 'Join us on our journey!'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 4
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:134ba435-edb8-4936-ac5a-4c69722f597f'
+  revision_translation_affected:
+    -
+      value: true

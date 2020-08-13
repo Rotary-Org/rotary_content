@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: edea1014-8852-4db8-9690-f9b3c63571aa
+  bundle: topic
+  default_langcode: en
+  depends:
+    31b4fb4a-dcb0-4c0b-a16c-a8c022d01830: file
+    363b6f9a-cc4b-4f4a-a9c4-54e750171c4f: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'How delivering wheelchairs in Peru impacted my life'
+  created:
+    -
+      value: 1597261620
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p>This is a blog which is a more personal journal of how being a Rotarian or working on Rotary Projects has changed your life and the local and/or global community.</p>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae contraria sunt his, malane? Summae mihi videtur inscitiae. Ut id aliis narrare gestiant? Immo videri fortasse. Mihi enim satis est, ipsis non satis. Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum.</p>\r\n<img alt=\"teaching\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"dd7ed18e-800b-4acc-bfff-3998c9a26070\" src=\"/system/files/inline-images/new%20gen%20hero%202800x1800.jpg\" />\r\n<p>Sed fac ista esse non inportuna; Itaque fecimus. Sed quot homines, tot sententiae;</p>\r\n\r\n<p>Duo Reges: constructio interrete. Videamus animi partes, quarum est conspectus illustrior;</p>\r\n"
+      format: full_html
+      summary: ''
+  field_content_visibility:
+    -
+      value: public
+  field_topic_comments:
+    -
+      status: 2
+      cid: 0
+      last_comment_timestamp: 1597261822
+      last_comment_name: ''
+      last_comment_uid: 1
+      comment_count: 0
+  field_topic_image:
+    -
+      entity: 31b4fb4a-dcb0-4c0b-a16c-a8c022d01830
+      alt: ''
+      title: ''
+      width: 2250
+      height: 1500
+  field_topic_type:
+    -
+      entity: 363b6f9a-cc4b-4f4a-a9c4-54e750171c4f

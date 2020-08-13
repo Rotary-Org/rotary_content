@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: acf23b2f-7137-4575-9c76-245f9035542b
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    32d47bc4-0c21-461c-b5e3-f1b377741bd1: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Birthdays & anniversaries'
+  description:
+    -
+      value: 'Celebrate our special days!'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 5
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:32d47bc4-0c21-461c-b5e3-f1b377741bd1'
+  revision_translation_affected:
+    -
+      value: true

@@ -1,0 +1,29 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3bfdada4-0c54-4b29-9320-aa2da8c92a49
+  default_langcode: en
+  depends:
+    3fb5be7e-af3a-45c1-a6b5-a92138c8a68e: user
+default:
+  uid:
+    -
+      entity: 3fb5be7e-af3a-45c1-a6b5-a92138c8a68e
+  filename:
+    -
+      value: 623-1618x456.jpg
+  uri:
+    -
+      value: 'private://2020-08/623-1618x456.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 57138
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597266347

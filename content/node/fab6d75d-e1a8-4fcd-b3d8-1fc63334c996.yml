@@ -1,0 +1,76 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fab6d75d-e1a8-4fcd-b3d8-1fc63334c996
+  bundle: event
+  default_langcode: en
+  depends:
+    aa68f0ed-8679-44e5-836e-e54a2f3dea09: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Cornhole Tournament'
+  created:
+    -
+      value: 1597256940
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<img alt=\"Cornhole\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"b3526e98-fd34-42b3-a583-08b42318ae48\" src=\"/system/files/inline-images/Cornhole-Tournament-logo-for-eventbrite.jpg\" />\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae contraria sunt his, malane? Summae mihi videtur inscitiae. Ut id aliis narrare gestiant? Immo videri fortasse. Mihi enim satis est, ipsis non satis. Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum.</p>\r\n\r\n<p>Sed fac ista esse non inportuna; Itaque fecimus. Sed quot homines, tot sententiae;</p>\r\n\r\n<p>Duo Reges: constructio interrete. Videamus animi partes, quarum est conspectus illustrior;</p>\r\n"
+      format: full_html
+      summary: ''
+  field_content_visibility:
+    -
+      value: public
+  field_event_an_enroll:
+    -
+      value: false
+  field_event_comments:
+    -
+      status: 2
+      cid: 0
+      last_comment_timestamp: 1597259420
+      last_comment_name: ''
+      last_comment_uid: 1
+      comment_count: 0
+  field_event_date:
+    -
+      value: '2020-08-29T13:00:00'
+  field_event_date_end:
+    -
+      value: '2020-08-29T16:00:00'
+  field_event_enroll:
+    -
+      value: true
+  field_event_image:
+    -
+      entity: aa68f0ed-8679-44e5-836e-e54a2f3dea09
+      alt: ''
+      title: ''
+      width: 768
+      height: 512
+  field_event_location:
+    -
+      value: 'IPW Park'

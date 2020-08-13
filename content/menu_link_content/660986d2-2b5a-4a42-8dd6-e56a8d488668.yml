@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 660986d2-2b5a-4a42-8dd6-e56a8d488668
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    fb8337dc-de35-4e8f-87ed-44c1593b6dd9: menu_link_content
+default:
+  enabled:
+    -
+      value: false
+  title:
+    -
+      value: 'All members'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/all-members'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 50
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:fb8337dc-de35-4e8f-87ed-44c1593b6dd9'
+  revision_translation_affected:
+    -
+      value: true

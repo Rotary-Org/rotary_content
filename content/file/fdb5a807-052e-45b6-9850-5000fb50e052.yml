@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: fdb5a807-052e-45b6-9850-5000fb50e052
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Rotary-Christmas-party-reindeer-games-DEC17(1).jpg
+  uri:
+    -
+      value: 'private://2020-08/Rotary-Christmas-party-reindeer-games-DEC17(1).jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 217651
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597263329

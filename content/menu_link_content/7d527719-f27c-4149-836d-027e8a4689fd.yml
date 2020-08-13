@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 7d527719-f27c-4149-836d-027e8a4689fd
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    f2e50ee7-7e0d-49a6-a7ee-dcaf84f1b4e8: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Contact Us'
+  description:
+    -
+      value: 'Contact our local club'
+  menu_name:
+    -
+      value: main-navigation-anonymous
+  link:
+    -
+      uri: 'internal:/form/contact'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 3
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:f2e50ee7-7e0d-49a6-a7ee-dcaf84f1b4e8'
+  revision_translation_affected:
+    -
+      value: true

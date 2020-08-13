@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2730b09d-070d-4133-8c87-3c2d83a71eeb
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Ocean-536x354.jpg
+  uri:
+    -
+      value: 'private://2020-08/Ocean-536x354.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 16763
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597243714

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1768e5d7-ed3a-4158-b42a-ea5e22cf919d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: Fitz.JPG
+  uri:
+    -
+      value: 'private://inline-images/Fitz.JPG'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 374422
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1597261953

@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 9238a8ed-2f5d-4470-a2b0-eeae8fe8d71f
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    3c46b62b-40b1-4cf7-8c45-740e1af0fe4a: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'In the Press'
+  description:
+    -
+      value: 'External press coverage'
+  menu_name:
+    -
+      value: main-navigation-anonymous
+  link:
+    -
+      uri: 'internal:/'
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 2
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:3c46b62b-40b1-4cf7-8c45-740e1af0fe4a'
+  revision_translation_affected:
+    -
+      value: true
