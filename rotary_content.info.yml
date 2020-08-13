@@ -1,0 +1,65 @@
+name: 'Rotary default content and structure.'
+type: module
+description: 'Default content and structure for the Rotary kickstart sites.'
+package: Web services
+core_version_requirement: ^8.7.7 || ^9
+dependencies:
+  - default_content:default_content
+
+default_content:
+    menu_link_content:
+      - 01705dec-8acb-4ffd-a149-3845d767c588
+      - 02a78ccb-a311-4eb0-a446-59e44aee4d2a
+      - 0c3477ff-1a4f-470f-95d0-36a1ba630577
+      - 0e5eca79-8452-4859-8c06-11e9ce7e8472
+      - 0f0f3815-a81e-40a5-bb20-503756dcda20
+      - 134ba435-edb8-4936-ac5a-4c69722f597f
+      - 158b4eef-b69b-4fa3-aec2-9c47ec78d459
+      - 1d02d0be-ac40-4a35-90d1-61909078e9eb
+      - 2521a72e-6e9e-4e30-b6a5-a87a007b2292
+      - 25ef3c0a-98e1-4b83-aa8c-6d5964e4c7e5
+      - 2a4a91e4-c82e-4a20-aa8d-c32c61de9424
+      - 2ea8872d-28c0-44f6-85c2-e97747762a23
+      - 2fe99d13-4c1f-425a-8df1-4bb777b1731b
+      - 305928c5-acc7-4c06-948b-225828bca186
+      - 3064103b-a08f-40e8-b8ce-1470f91690ca
+      - 32d47bc4-0c21-461c-b5e3-f1b377741bd1
+      - 34925c03-0b50-45ec-a245-7f8cb1b25aaa
+      - 37f23c7a-7e47-4e87-8a45-f1cc69ac8957
+      - 3c46b62b-40b1-4cf7-8c45-740e1af0fe4a
+      - 44d257fc-bdba-4af9-a676-85ac8f90c688
+      - 45bf60af-d01a-4c12-9bed-aafd64907a1b
+      - 4f775a32-c94c-46ab-b212-0b63bedaf691
+      - 51342d4b-bf40-4e30-b4c0-bf0d834ffeee
+      - 527c9007-1efd-45ca-8526-567ead8457fb
+      - 5bc206a1-c7a1-4240-b881-85e2a8b70d0a
+      - 5eea7037-3818-4a29-9d6d-009759f16dfb
+      - 693c45bb-9942-44aa-bb81-2980c961bb54
+      - 7a9a051b-5764-4cd8-b44d-983e009ad5dc
+      - 7cd4d873-0203-4bdb-8fb9-022a869b7f17
+      - 7d527719-f27c-4149-836d-027e8a4689fd
+      - 882be070-27d8-4aed-aca7-c2b102fb072e
+      - 8909ed01-7fe0-4a65-9804-41b45166ad10
+      - 9238a8ed-2f5d-4470-a2b0-eeae8fe8d71f
+      - 929248cf-2ad3-43bf-b92e-8afa43b30ede
+      - 93d8a334-41e6-4975-9609-b00dd0bb0f0a
+      - 96bde4ce-b17c-4d65-86a5-059ccbb87434
+      - 980bcfb4-6834-4b20-b5ba-5013b4d88da7
+      - a29bb58f-2bac-4d45-afbc-7b90d165cf45
+      - ab8b0eec-86e0-4d7f-a2c9-d6e32ba12349
+      - acf23b2f-7137-4575-9c76-245f9035542b
+      - af63ae72-2043-4b8f-9710-5d8bf9fccaac
+      - b03a5fb7-3a73-450f-9401-93ea7caecac8
+      - b19593ac-5206-4530-a2ef-421dfe601179
+      - bd2b7e2f-9399-4c6d-9a0c-78e935efb4b9
+      - ca4290ab-fed5-4bf9-afa4-8736c19ea1d5
+      - ca828d73-1c23-4319-a41e-92f2c015949a
+      - d0eff569-c7b7-47d6-91bd-959707eeea9d
+      - d16bc944-e796-4136-ac73-6b63910c0ef9
+      - d87d9b3e-5653-4aea-bfee-f115ec58fcd6
+      - dcca5565-8ff3-40cd-8a31-3d7a08144165
+      - e75ce0dc-a688-4bc6-a22a-8d8dff436a7d
+      - f6fb1725-a93b-4091-b413-2843017cbd69
+      - fc19471b-8d01-4a46-8466-0402a3ef3adc
+      - fe735b44-2ec6-418d-b52f-70e80c1d8359
+
